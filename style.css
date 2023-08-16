@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+body{
+    font-family: 'Mitr', sans-serif;
+    background-color: rgb(195, 242, 242);
+}
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #4ECCA3;
+    background-image: linear-gradient(135deg, #8BC6EC 0%,#9599E2 100%);
+  }
+  p{
+    font-size: 2rem;
+    font-family: 'Mitr', sans-serif;   
+}
+
+img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Mitr', sans-serif;   
+}
+
+
